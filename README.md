@@ -21,7 +21,7 @@ Learning Together: Whether you're a beginner or a pro, let’s learn and build c
 
 📫 How to Reach Me
 DM me here on GitHub, or connect with me on:
-LinkedIn ([replace with your actual LinkedIn URL](https://www.linkedin.com/in/hannia-mabel-lópez-montaño-234934288/))
+[LinkedIn](https://www.linkedin.com/in/hannia-mabel-lópez-montaño-234934288/)
 Email: max.lopz.montn@gmail.com
 
 😄 Pronouns
