@@ -25,9 +25,7 @@ I'm open to collaborating on:
 
 📫 How to Reach Me
 -----------------
-DM me here on GitHub, or connect with me on:
-[LinkedIn](https://www.linkedin.com/in/hannia-mabel-lópez-montaño-234934288/)
-**Email:** max.lopz.montn@gmail.com
+DM me here on GitHub, or connect with me on [LinkedIn](https://www.linkedin.com/in/hannia-mabel-lópez-montaño-234934288/), or [email me](max.lopz.montn@gmail.com)!
 
 😄 Pronouns
 -----------------
