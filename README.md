@@ -1,4 +1,4 @@
-👋 Hi, I’m Max Lopzzz!
+👋 Hi, I’m Max López!
 ==============
 Welcome to my GitHub profile! I'm passionate about everything code—whether it’s building web apps, solving algorithmic challenges, or experimenting with new languages, I’m always ready to dive in.
 
