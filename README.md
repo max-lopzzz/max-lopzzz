@@ -6,15 +6,14 @@ Welcome to my GitHub profile! I'm passionate about everything code—whether it�
 -----------------
 - **Software Development:** Crafting efficient, elegant solutions to problems.
 - **Data Analysis:** Working with data using Python and MATLAB.
-- **Mobile Development:** Learning Swift to build amazing iOS apps.
 - **Problem-Solving:** I love tackling coding challenges and algorithms.
 
 🌱 Currently Learning
 -----------------
 - **Python:** Enhancing my skills in scripting, automation, and data analysis.
 - **MATLAB:** Using it for technical computing and scientific problem-solving.
-- **Swift:** Exploring iOS app development.
 - **Java:** Building solid, object-oriented applications.
+- **C++:** Delving into advanced object-oriented programming.
 
 💞️ Collaboration
 -----------------
