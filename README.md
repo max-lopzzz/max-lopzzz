@@ -30,6 +30,6 @@ Welcome to my GitHub! I'm a software engineer and data enthusiast who thrives on
 - **Mentorship**: Let’s pair-program or trade tips on boxing/data viz while building inclusive solutions!  
 
 ### 📲 Reach Out  
-[LinkedIn](https://www.linkedin.com/in/hannia-mabel-lópez-montaño-234934288/) | [Email](max.lopz.montn@gmail.com) | DM here!  
+[LinkedIn](https://www.linkedin.com/in/hannia-mabel-lópez-montaño-234934288/) | [Email](m.lopz.montn@gmail.com) | DM here!  
 
 **He/Him** | 🇲🇽 | 🏳️‍🌈 | 🏳️‍⚧️
