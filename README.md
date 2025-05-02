@@ -1,35 +1,31 @@
-👋 Hi, I’m Max López!
-==============
-Welcome to my GitHub profile! I'm passionate about everything code—whether it’s building web apps, solving algorithmic challenges, or experimenting with new languages, I’m always ready to dive in.
+👋 Hi, I'm Max López!  
+=================  
+Welcome to my GitHub! I'm a software engineer and data enthusiast who thrives on solving problems with code. When I'm not at my keyboard, you'll find me lifting weights, sparring at the boxing gym, or geeking out over R for data wizardry. 🥊📊  
 
-👀 Interests
------------------
-- **Software Development:** Crafting efficient, elegant solutions to problems.
-- **Data Analysis:** Working with data using Python and MATLAB.
-- **Problem-Solving:** I love tackling coding challenges and algorithms.
+### 🔍 What I Do  
+**💻 Code Craft:**  
+- Build web apps, automate workflows, and tackle algorithmic puzzles.  
+- Data analysis: Python 🐍 | R 📊 | MATLAB 🧮  
+- Mastering Java & C++ for scalable, object-oriented systems.  
 
-🌱 Currently Learning
------------------
-- **Python:** Enhancing my skills in scripting, automation, and data analysis.
-- **MATLAB:** Using it for technical computing and scientific problem-solving.
-- **Java:** Building solid, object-oriented applications.
-- **C++:** Delving into advanced object-oriented programming.
+**🌱 Learning Journey:**  
+- **R**: Transforming messy data into insights (and beautiful ggplots).  
+- **Python**: Expanding into ML/AI and automation.  
+- **C++**: Deepening my grasp of system-level programming.  
 
-💞️ Collaboration
------------------
-I'm open to collaborating on:
-- **Open Source Projects:** I’d love to contribute to impactful projects.
-- **Hackathons:** I enjoy teaming up for coding challenges.
-- **Learning Together:** Whether you're a beginner or a pro, let’s learn and build cool things together!
+### 🏋️‍♂️ Beyond Coding  
+- **Boxing**: Competing in amateur matches + refining my jab-cross combo 💪  
+- **Strength Training**: Lifting weights to build discipline and physical resilience 🏋️♂️  
+- **Music**: Drummer for grunge band *Hasbubirrias* 🎸 | Co-creating a heavy metal project (name TBA) 💥  
+- **Scout**: 9-year journey building leadership, teamwork, and wilderness survival skills 🧭  
+- **Outdoors**: Mountain biking trails (or navigating forests with a compass!) 🚵  
 
-📫 How to Reach Me
------------------
-DM me here on GitHub, or connect with me on [LinkedIn](https://www.linkedin.com/in/hannia-mabel-lópez-montaño-234934288/), or [email me](max.lopz.montn@gmail.com)!
+### 🤝 Let's Collaborate  
+- **Open Source**: Helping build tools that democratize tech.  
+- **Hackathons**: Bring your wildest ideas—I’ll bring the coffee ☕  
+- **Mentorship**: Let’s pair-program or trade tips on boxing/data viz!  
 
-😄 Pronouns
------------------
-He/Him
+### 📲 Reach Out  
+[LinkedIn](https://www.linkedin.com/in/hannia-mabel-lópez-montaño-234934288/) | [Email](max.lopz.montn@gmail.com) | DM here!  
 
-⚡ Fun Fact
------------------
-I'm a metal drummer! When I’m not coding, you’ll often find me drumming to my favorite metal tracks or exploring new mountain biking trails. 🥁🚵
+**He/Him** | 🇲🇽  
