@@ -20,12 +20,16 @@ Welcome to my GitHub! I'm a software engineer and data enthusiast who thrives on
 - **Scout**: 9-year journey building leadership, teamwork, and wilderness survival skills 🧭  
 - **Outdoors**: Mountain biking trails (or navigating forests with a compass!) 🚵  
 
+### 🌍 Mission & Values  
+- **Human Rights Advocate**: Passionate about LGBTQ+ equity, inclusion, and fighting systemic bias 🌈  
+- **Tech for Good**: Using coding to amplify marginalized voices (e.g., open-source tools for LGBTQ+ orgs, inclusive app design) 💻✨  
+
 ### 🤝 Let's Collaborate  
-- **Open Source**: Helping build tools that democratize tech.  
-- **Hackathons**: Bring your wildest ideas—I’ll bring the coffee ☕  
-- **Mentorship**: Let’s pair-program or trade tips on boxing/data viz!  
+- **Open Source**: Helping build tools that democratize tech *and* uplift underserved communities.  
+- **Hackathons**: Bring ideas for social good—I’ll bring the coffee ☕  
+- **Mentorship**: Let’s pair-program or trade tips on boxing/data viz while building inclusive solutions!  
 
 ### 📲 Reach Out  
 [LinkedIn](https://www.linkedin.com/in/hannia-mabel-lópez-montaño-234934288/) | [Email](max.lopz.montn@gmail.com) | DM here!  
 
-**He/Him** | 🇲🇽  
+**He/Him** | 🇲🇽 | 🏳️‍🌈 | 🏳️‍⚧️
