@@ -12,15 +12,6 @@ Engineering in Computer Technologies student at Tecnológico de Monterrey, with 
 ![](https://streak-stats.demolab.com/?user=max-lopzzz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=max-lopzzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=max-lopzzz&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=max-lopzzz&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=max-lopzzz&icon=7&color=10)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maxlopezzz135) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maximiliano66848) 
 
