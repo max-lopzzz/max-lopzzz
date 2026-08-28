@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, I'm Maxi 👋<br><br>🍙 I'm a CS student and solo indie dev building **PakuPaku**, a kawaii nutrition tracker designed to be inclusive to transgender people and anyone with a condition that affects their metabolism.<br><br>- 🔭 I'm currently working on **PakuPaku** (nutrition tracker) and **Pawmodoro** (a kawaii Pomodoro timer for macOS with a very supportive cat)<br>- 🌱 I'm currently learning more about mobile app architecture (Swift, Capacitor) and full-stack app development<br>- 🎮 My team won 1st place at Pixel Borregos' 2025 Game Jam<br>- 👯 I'm looking to collaborate on small, useful, or just plain fun indie projects — trackers, tools, and games especially<br>- 🙋 I'm looking for help with testing & feedback on early-access apps, especially from trans users and people with metabolic conditions for PakuPaku<br>- 💬 Ask me about inclusive app design, indie dev on a student budget, or fuse-bead pixel art<br>- ⚡ Fun fact: I built a bead-art pattern generator (Bead Art Helper) purely because I got tired of counting pixels by hand for my own perler bead projects
+Hi there, I'm Maxi 👋<br><br>🍙 I'm a CS student and solo indie dev building **PakuPaku**, a kawaii nutrition tracker designed to be inclusive to transgender people and anyone with a condition that affects their metabolism.<br><br>- 🔭 I'm currently working on **PakuPaku** (nutrition tracker) and **Pawmodoro** (a kawaii Pomodoro timer for macOS with a very supportive cat)<br>- 🌱 I'm currently learning more about mobile app architecture (Swift, Capacitor) and full-stack app development<br>- 🎮 My team won 1st place at Pixel Borregos' 2025 Game Jam<br>- 👯 I'm looking to collaborate on small, useful, or just plain fun indie projects — trackers, tools, and games especially<br>- 🙋 I'm looking for help with testing & feedback on early-access apps, especially from trans users and people with metabolic conditions for PakuPaku<br>- 💬 Ask me about inclusive app design, indie dev on a student budget, or fuse-bead pixel art<br>- ⚡ Fun fact: I built a bead-art pattern generator (Bead Art Helper) purely because I got tired of counting pixels by hand for my own perler bead projects
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=max-lopzzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=max-lopzzz&icon=7&color=12)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=max-lopzzz&icon=7&color=13)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maximiliano66848) 
